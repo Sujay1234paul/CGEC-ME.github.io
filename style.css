@@ -86,7 +86,7 @@ ul li{
 
 .srch{
     font-family: 'Times New Roman';
-    width: 18rem;
+    width: 15rem;
     height: 4rem;
     background: transparent;
     border: 1px solid rgb(252, 183, 9);
@@ -102,13 +102,13 @@ ul li{
 
 
 .btn{
-    width: 10rem;
+    width: 8rem;
     height: 4rem;
     background: rgb(252, 183, 9);
     border: 2px solid rgb(252, 183, 9);
     margin-top: 1.3rem;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     border-bottom-right-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
 }
@@ -256,11 +256,6 @@ ul li{
     width: 60rem;
     height: 50rem;
 }
-
-
-
-
-
 
 
 *{
@@ -571,19 +566,19 @@ footer{
 
 
 
-@media(max-width:980px){
+@media(max-width:978px){
     html{
         font-size: 50%;
     }
     
 }
-@media(max-width:828px){
+@media(max-width:878px){
     html{
         font-size: 45%;
     }
 }
 
-@media(max-width:728px){
+@media(max-width:778px){
     html{
         font-size: 35%;
     }
@@ -598,9 +593,5 @@ footer{
         font-size: 25%;
     }
 }
-@media(max-width:480px){
-    html{
-        font-size: 25%;
-    }
-}
+
 
