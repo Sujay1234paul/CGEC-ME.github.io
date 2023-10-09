@@ -290,7 +290,8 @@ ul li{
 }
 
 .Discipline{
-    width: 100%;
+    width: auto;
+    height: auto;
     display: flex;
     background: rgb(252, 183, 9);
     padding: 5rem;
@@ -566,58 +567,80 @@ footer{
 
 
 
-@media(max-width:978px){
+@media(max-width:988px){
     html{
         font-size: 50%;
     }
     
 }
 
-@media(max-width:928px){
+@media(max-width:948px){
     html{
-        font-size: 50%;
+        font-size: 48%;
     }
     
 }
-@media(max-width:878px){
+@media(max-width:908px){
     html{
-        font-size: 45%;
+        font-size: 46%;
+    }
+    
+}
+@media(max-width:888px){
+    html{
+        font-size: 44%;
     }
 }
-@media(max-width:828px){
+@media(max-width:848px){
     html{
-        font-size: 45%;
+        font-size: 42%;
     }
 }
-@media(max-width:778px){
+@media(max-width:808px){
     html{
-        font-size: 35%;
+        font-size: 40%;
     }
 }
-@media(max-width:728px){
+@media(max-width:788px){
+    html{
+        font-size: 39%;
+    }
+}
+@media(max-width:748px){
+    html{
+        font-size: 37%;
+    }
+}
+@media(max-width:708px){
     html{
         font-size: 35%;
     }
 }
 @media(max-width:678px){
     html{
-        font-size: 35%;
+        font-size: 31%;
+    }
+}
+@media(max-width:658px){
+    html{
+        font-size: 28%;
     }
 }
 @media(max-width:628px){
     html{
-        font-size: 35%;
+        font-size: 27.5%;
     }
 }
-@media(max-width:578px){
+@media(max-width:588px){
     html{
         font-size: 25%;
     }
 }
 @media(max-width:528px){
     html{
-        font-size: 25%;
+        font-size: 24%;
     }
 }
+
 
 
