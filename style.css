@@ -86,7 +86,7 @@ ul li{
 
 .srch{
     font-family: 'Times New Roman';
-    width: 23rem;
+    width: 18rem;
     height: 4rem;
     background: transparent;
     border: 1px solid rgb(252, 183, 9);
@@ -252,52 +252,9 @@ ul li{
     font-weight: bold;
 }
 
-.form .link{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.7rem;
-    padding-top: 2rem;
-    text-align: center;
-}
-
-.form .link a{
-    text-decoration:none;
-    color: rgb(70, 70, 244);
-    font-weight:600;
-    transition:0.1s;
-}
-
-.link a:hover{
-    color: rgba(67, 219, 204, 0.796);
-}
-
-.liw{
-    padding-top: 1.5rem;
-    padding-bottom: 1rem;
-    text-align: center;
-}
-
-.icon a{
-    text-decoration: none;
-    color: white;
-    border: none;
-    margin-right: -1rem;
-}
-
-.icon ion-icon{
-    color: white;
-    font-size: 2.5rem;
-    padding-left: 2.15rem;
-    padding-top: .3rem;
-    align-content: center;
-}
-
-.icon ion-icon:hover{
-    color: black;
-}
-
 .video{
-    width: 50rem;
-    height: 40rem;
+    width: 60rem;
+    height: 50rem;
 }
 
 
