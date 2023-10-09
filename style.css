@@ -628,7 +628,7 @@ footer{
 
 @media(max-width:728px){
     html{
-        font-size: 40%;
+        font-size: 35%;
     }
 }
 @media(max-width:628px){
@@ -638,7 +638,7 @@ footer{
 }
 @media(max-width:528px){
     html{
-        font-size: 30%;
+        font-size: 25%;
     }
 }
 @media(max-width:420px){
