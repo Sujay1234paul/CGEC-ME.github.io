@@ -572,13 +572,34 @@ footer{
     }
     
 }
+
+@media(max-width:928px){
+    html{
+        font-size: 50%;
+    }
+    
+}
 @media(max-width:878px){
     html{
         font-size: 45%;
     }
 }
-
+@media(max-width:828px){
+    html{
+        font-size: 45%;
+    }
+}
 @media(max-width:778px){
+    html{
+        font-size: 35%;
+    }
+}
+@media(max-width:728px){
+    html{
+        font-size: 35%;
+    }
+}
+@media(max-width:678px){
     html{
         font-size: 35%;
     }
@@ -586,6 +607,11 @@ footer{
 @media(max-width:628px){
     html{
         font-size: 35%;
+    }
+}
+@media(max-width:578px){
+    html{
+        font-size: 25%;
     }
 }
 @media(max-width:528px){
